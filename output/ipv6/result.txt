@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2025-06-30 18:17:50,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
+2025-07-01 06:16:07,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 
 📡卫视频道,#genre#
 
 ☘️浙江频道,#genre#
-永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
-庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 
 ☘️北京频道,#genre#
