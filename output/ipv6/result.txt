@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2025-09-25 18:16:49,url
+2025-09-26 06:13:38,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
+
+☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 
@@ -16,6 +18,8 @@
 ☘️江苏频道,#genre#
 
 ☘️广西频道,#genre#
+
+☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
@@ -32,7 +36,12 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 
 🏀体育频道,#genre#
+五星体育,https://other.ottiptv.cc/wxty.m3u8
 
 🪁动画频道,#genre#
+
+🎵音乐频道,#genre#
