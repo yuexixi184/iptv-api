@@ -1,7 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-30 06:14:41,https://cc06.tv12.xyz/43.m3u8
-
-📺央视频道,#genre#
+2025-09-30 18:15:16,https://cc06.tv12.xyz/43.m3u8
 
 📡卫视频道,#genre#
 广东卫视,https://cc06.tv12.xyz/43.m3u8
@@ -23,17 +21,12 @@
 吉林卫视,https://cc06.tv12.xyz/60.m3u8
 江苏卫视,https://cc06.tv12.xyz/61.m3u8
 江西卫视,https://cc06.tv12.xyz/62.m3u8
-辽宁卫视,https://cc06.tv12.xyz/70.m3u8
-内蒙古卫视,https://cc06.tv12.xyz/94.m3u8
-宁夏卫视,https://cc06.tv12.xyz/96.m3u8
 青海卫视,https://cc06.tv12.xyz/97.m3u8
 山东卫视,https://cc06.tv12.xyz/101.m3u8
 山西卫视,https://cc06.tv12.xyz/107.m3u8
 陕西卫视,https://cc06.tv12.xyz/106.m3u8
 四川卫视,https://cc06.tv12.xyz/99.m3u8
 深圳卫视,https://cc06.tv12.xyz/108.m3u8
-西藏卫视,https://cc06.tv12.xyz/112.m3u8
-新疆卫视,https://cc06.tv12.xyz/109.m3u8
 云南卫视,https://cc06.tv12.xyz/114.m3u8
 
 ☘️广东频道,#genre#
@@ -50,8 +43,6 @@
 
 ☘️广西频道,#genre#
 
-☘️天津频道,#genre#
-
 ☘️四川频道,#genre#
 
 ☘️河南频道,#genre#
@@ -62,9 +53,6 @@
 
 ☘️安徽频道,#genre#
 
-☘️吉林频道,#genre#
-延边卫视,https://cc06.tv12.xyz/113.m3u8
-
 ☘️青海频道,#genre#
 
 🌊港·澳·台,#genre#
@@ -74,7 +62,6 @@
 🏀体育频道,#genre#
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 天元围棋,https://cc06.tv12.xyz/47.m3u8
-快乐垂钓,https://cc06.tv12.xyz/56.m3u8
 
 🪁动画频道,#genre#
 金鹰卡通,https://cc06.tv12.xyz/55.m3u8
