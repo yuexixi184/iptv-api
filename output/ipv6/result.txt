@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-02 06:14:38,https://other.ottiptv.cc/wxty.m3u8
+2025-10-02 18:15:03,url
 
 📡卫视频道,#genre#
 
@@ -32,6 +32,5 @@
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-五星体育,https://other.ottiptv.cc/wxty.m3u8
 
 🪁动画频道,#genre#
