@@ -1,8 +1,24 @@
 🕘️更新时间,#genre#
-2025-10-24 18:15:34,http://1.94.31.214/php/hntv.php?id=hnws
+2025-10-25 06:14:16,http://1.31.14.70:54321/hls/7/index.m3u8
+
+📺央视频道,#genre#
+CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
+CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
+CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
+CCTV-11,http://1.31.14.70:54321/hls/16/index.m3u8
+CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
+湖北卫视,http://1.31.14.70:54321/hls/39/index.m3u8
+重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
+内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
+山东卫视,http://1.31.14.70:54321/hls/32/index.m3u8
+四川卫视,http://1.31.14.70:54321/hls/41/index.m3u8
+
+☘️广东频道,#genre#
 
 ☘️北京频道,#genre#
 北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
@@ -23,6 +39,8 @@
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
 
+☘️陕西频道,#genre#
+
 ☘️河南频道,#genre#
 洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
@@ -40,17 +58,20 @@
 哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 
+☘️山东频道,#genre#
+
 ☘️安徽频道,#genre#
 
 ☘️青海频道,#genre#
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
@@ -60,6 +81,7 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
