@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-06 18:17:34,url
+2025-11-07 06:14:18,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
 
 📡卫视频道,#genre#
 
@@ -28,6 +28,7 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
 
 🏀体育频道,#genre#
 
