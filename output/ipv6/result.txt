@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-12 18:17:19,url
+2025-11-13 06:15:35,https://cdn6.101.qzz.io/163189/tvbxh
 
 📡卫视频道,#genre#
 
@@ -28,7 +28,10 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+
+🏛经典剧场,#genre#
