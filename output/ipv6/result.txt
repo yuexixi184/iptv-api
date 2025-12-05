@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-05 06:12:29,https://yylunbo.ottiptv.cc/yy/1414812324
+2025-12-05 18:16:47,https://yylunbo.ottiptv.cc/yy/1414812324
 
 📡卫视频道,#genre#
 
@@ -12,6 +12,8 @@
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
+
+☘️福建频道,#genre#
 
 ☘️河南频道,#genre#
 
