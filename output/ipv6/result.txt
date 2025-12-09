@@ -1,11 +1,18 @@
 🕘️更新时间,#genre#
-2025-12-09 18:17:29,https://yylunbo.ottiptv.cc/yy/1414812324
+2025-12-10 06:15:44,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+
+📺央视频道,#genre#
 
 📡卫视频道,#genre#
+
+☘️浙江频道,#genre#
 
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 
 ☘️重庆频道,#genre#
 
@@ -30,5 +37,8 @@
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 
 🪁动画频道,#genre#
+
+🎵音乐频道,#genre#
