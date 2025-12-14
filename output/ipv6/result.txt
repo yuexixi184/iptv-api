@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-14 18:14:27,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+2025-12-15 06:13:12,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 
 📡卫视频道,#genre#
 
@@ -36,3 +36,5 @@
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 
 🪁动画频道,#genre#
+
+🎮游戏频道,#genre#
