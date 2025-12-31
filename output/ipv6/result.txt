@@ -1,13 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-31 18:17:58,https://yylunbo.ottiptv.cc/yy/1414812324
-
-📺央视频道,#genre#
+2026-01-01 06:15:26,https://cdn6.101.qzz.io/163189/tvbxh
 
 📡卫视频道,#genre#
-
-☘️广东频道,#genre#
-
-☘️浙江频道,#genre#
 
 ☘️北京频道,#genre#
 
@@ -15,9 +9,13 @@
 
 ☘️重庆频道,#genre#
 
+☘️江苏频道,#genre#
+
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
+
+☘️陕西频道,#genre#
 
 ☘️河南频道,#genre#
 
@@ -32,11 +30,8 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-
-🎵音乐频道,#genre#
