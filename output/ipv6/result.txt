@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-10 18:15:04,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
+2026-01-11 06:14:36,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 
 📺央视频道,#genre#
 
@@ -9,8 +9,6 @@
 
 ☘️广东频道,#genre#
 
-☘️浙江频道,#genre#
-
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
@@ -18,8 +16,6 @@
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-
-☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
 
